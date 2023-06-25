@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "users": [{ "id": 1, "name": "Naman" }],
+=======
+  "users": [],
+>>>>>>> 7d6349cdbda5571512930a205a9787591b01ab0a
   "albums": [],
   "photos": []
 }

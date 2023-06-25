@@ -17,6 +17,11 @@ function UsersList() {
     <div>UsersList!</div>
   )
 
+  function UsersList() {
+    return (
+      <div>UsersList!</div>
+    )
+  }
 }
 
-export default UsersList
+export default UsersList;

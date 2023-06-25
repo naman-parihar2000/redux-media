@@ -8,3 +8,4 @@ export const store = configureStore({
 })
 
 export * from './thunk/fetchUsers'
+
