@@ -34,6 +34,7 @@ const usersSlice = createSlice({
             state.error = action.error
         })  
     }
-})
+},
+)
 
 export const usersReducer = usersSlice.reducer;
