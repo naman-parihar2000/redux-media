@@ -1,5 +1,10 @@
 {
-  "users": [{ "id": 1, "name": "Naman" }],
+  "users": [
+    {
+      "name": "Deborah Armstrong",
+      "id": 2
+    }
+  ],
   "albums": [],
   "photos": []
 }
